@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#info, .info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#botao {
+
+}
+
+#info {
+    margin-top: 1%;
+    gap: 20px;
+}
+
+.info-container {
+    padding: 0.5%;
+    gap: 20px;
+    width: fit-content;
+   border: 2px solid black;
+}
+
